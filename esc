@@ -1,0 +1,143 @@
+[33m614e65e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'rustdesk:main' into main
+[33m9e7696c[m Merge pull request #349 from 21pages/revert
+[33m44e8a46[m Revert "ab default password"
+[33m3dbe437[m Revert "remove support_controlling_salt field in Hash"
+[33m09847ed[m Merge pull request #348 from 21pages/remove_support_controlling_salt
+[33m11dba93[m remove support_controlling_salt field in Hash
+[33mcf9918a[m Merge pull request #347 from 21pages/ab_default_password
+[33mf9e903b[m ab default password
+[33ma828d8c[m 修改默认的服务器、key、密码
+[33m3346416[m disable-discovery-panel
+[33md6b1497[m Merge pull request #339 from fufesou/feat/opt_show_my_cursor
+[33m29bae8a[m feat: opt, show my cursor
+[33mfa8f289[m Merge pull request #338 from fufesou/fix/file_transfer_resume_init_finished_size
+[33mc990609[m fix: file transfer, resume, init finished size
+[33m5b6c0cf[m Merge pull request #337 from fufesou/feat/advanced_option_main_window_always_on_top
+[33m3ec01f9[m feat: advanced option, main window, always on top
+[33m221c2bf[m Merge pull request #335 from fufesou/feat/clipboard_file_audit
+[33m024380d[m Merge pull request #323 from fufesou/feat/file_transfer_digest_is_resume
+[33mf6fb16d[m feat: file transfer, digest flag, is_resume
+[33mbb2d6fa[m Merge pull request #321 from fufesou/fix/file_transfer_resume
+[33m3704a64[m fix: file transfer, resume
+[33mfee1a11[m feat: clipboard files, audit
+[33m32fed54[m Merge pull request #313 from fufesou/feat/file_transfer_resume
+[33m215b0e7[m feat: file transfer, resume
+[33m57c8a23[m Merge pull request #304 from fufesou/refact/suppress_warns
+[33m7f80d78[m refact: suppress warns
+[33mf91459c[m Merge pull request #293 from fufesou/feat/terminal_restore_sessions
+[33m79734df[m feat: terminal, restore sessions
+[33m25e761f[m Merge pull request #289 from 21pages/add_missing_keys
+[33mff18650[m Merge pull request #286 from fufesou/fix/linux_dm_user
+[33m0aae349[m add some missing keys
+[33md9d872a[m fix: linux, dm user
+[33mf850a16[m terminal persistent
+[33m117ea7c[m terminal
+[33m3454fe8[m Merge pull request #247 from fufesou/fix/linux_workaround_cmd_path
+[33mbb11783[m fix: linux, workaround cmd path
+[33mf92b16a[m Merge pull request #246 from fufesou/fix/sh_path
+[33m11dcd41[m fix: linux sh path
+[33m92ca2ca[m Update config.rs
+[33m78facdf[m revert flex log
+[33me9f7721[m OPTION_HIDE_POWERED_BY_ME
+[33m44a7277[m time_based_rand
+[33mdf95f44[m more udp punch
+[33mb69b097[m kcp stream
+[33mfa160b2[m Update config.rs
+[33m0e279c1[m Update rendezvous.proto
+[33me6724f0[m Update config.rs
+[33m15a71f0[m Merge pull request #178 from fufesou/fix/numeric_one_time_password
+[33m958f21a[m fix: numeric one-time password on startup
+[33maa466d2[m Merge pull request #177 from fufesou/feat/numeric_one_time_password
+[33m89bb219[m feat: numeric one-time password
+[33m53709d8[m Merge pull request #159 from 21pages/fix_sync_socks_from_advanced_options_to_config
+[33mcbaaf6f[m fix sync socks from advanced options to config file
+[33m6e556f7[m Merge pull request #154 from fufesou/feat/trackpad_speed
+[33mceb8146[m feat: trackpad speed
+[33m7839dcf[m Merge pull request #152 from 21pages/websocket
+[33m585bd1f[m websocket
+[33md64954a[m Update config.rs
+[33mc943117[m Update config.rs
+[33m4eca5b4[m Merge pull request #148 from fufesou/fix/build_crate
+[33m368dc1a[m Update Cargo.toml
+[33m8c23812[m fix: build
+[33mbfddd5b[m Merge pull request #147 from fufesou/feat/hostname_as_id
+[33m8e1dd7f[m feat: hostname as id
+[33m42aad01[m Merge pull request #144 from fufesou/feat/screenshot
+[33mb08c92a[m feat: screenshot
+[33m3afaf64[m Merge pull request #143 from YinMo19/main
+[33m96b41b5[m [enhance] add from method
+[33md04ae28[m Merge pull request #137 from YinMo19/main
+[33md8f907a[m [enhance] implement inline func and neat import.
+[33m6be5600[m [enhance] split into `stream.rs`.
+[33m512f67f[m [merge] merge conflict
+[33m3ef70f0[m [clean] test passed.
+[33m880365c[m [bug fix] add enc logic.
+[33m608eb59[m [bug fix] add logic
+[33m7110634[m [debug] add debug.
+[33me9813ff[m [test] add test debug info.
+[33mebb4d4a[m Merge pull request #136 from fufesou/feat/linux_is_locked
+[33m04772ab[m feat: linux, is locked
+[33m7d5cc2e[m [enhance] test ver. Add text for test.
+[33m29a322e[m [test] temp stop proxy.
+[33mbac2ffd[m [enhance] rewrite websocket next.
+[33m13ffda4[m [enhance] remove time ticking.
+[33m836dbbc[m [fallback] remove pingpong
+[33m5c6b12c[m [enhance] add ping pong send (ver.2)
+[33mf31d1ec[m [enhance] add ping pong send.
+[33m0d6948c[m [test] fix bug: twice enc. add ping pong log.
+[33m4ff800a[m [test] websocket should be determined in runtime.
+[33mb1dd3bb[m [add log] add log and add ws scheme
+[33m6798bf3[m [test] tcp success. Websocket test. (temp ver.)
+[33md299e49[m [fix bug] fix twice enc.
+[33m2f8cf74[m Merge pull request #123 from tomty89/manager_session
+[33ma27b285[m Ignore the session type when started as a user unit
+[33m514ef6a[m Ignore unspecified type session(s) when look through all active sessions
+[33m1ed5a46[m Update config.rs
+[33m2d65c24[m [enhance] remove cfg select.
+[33m5810365[m [enhance] add websocket NOT a config feature.
+[33md00dd60[m Merge pull request #1 from YinMo19/websocket
+[33mc156d2e[m [enhance] websocket
+[33m9e4b3f9[m Update Cargo.toml
+[33m5cc7db2[m Update Cargo.toml
+[33ma26f25a[m tokio 1.44
+[33m5921946[m Merge pull request #112 from fufesou/feat/conf_key_auto_update
+[33m805fe3e[m conf key, auto update
+[33m81b932b[m Merge pull request #85 from fufesou/fix/fs_flush_before_getting_buf
+[33m7711396[m fix: fs, flush before getting the buf
+[33m9ede5d4[m Merge pull request #84 from fufesou/feat/remote_printer_fs
+[33mc907ad8[m refact: fs, buf stream
+[33m9dbad32[m Merge pull request #82 from fufesou/feat/remote_printer_2
+[33m14936c8[m Remove  in login request.
+[33m4bd7fff[m Merge pull request #80 from fufesou/feat/remote_printer
+[33mf4cc391[m feat: remote printer, reuse fs
+[33m07d3cc5[m Feat. Remote printer.
+[33m1819875[m Merge pull request #62 from 21pages/option-allow-d3d-render
+[33m2a35874[m option `allow-d3d-render`
+[33m83419b6[m Merge pull request #53 from 21pages/allow-https-21114
+[33m6338940[m buildin option `allow-https-21114`
+[33m7cf11f7[m Merge pull request #33 from hadfl/illumos
+[33m073bae1[m add illumos support
+[33m16900b9[m Merge pull request #28 from fufesou/refact/optimize_preload_peers
+[33m33487a0[m refact: optimize, preload peers.
+[33mf94753b[m Merge pull request #27 from fufesou/refact/preload_peers
+[33me608898[m refact, reload peers
+[33m0d7f746[m Merge pull request #24 from fufesou/refact/optimize_preload_peers
+[33md52ef0d[m Merge pull request #25 from adwinwhite/view-camera
+[33m8950242[m Update message.proto
+[33mf7f0e19[m refact: optimize, preload peers
+[33m4b161a2[m feat: add camera permission
+[33m478db34[m feat: add config option for camera
+[33mf8fbf40[m feat: add camera connection type
+[33me7d210e[m Add Status
+[33mf9a10ea[m Update lib.rs
+[33m8b6700a[m Merge pull request #21 from 21pages/device_group
+[33ma8efd32[m fix device group cache
+[33mb237338[m Merge pull request #20 from 21pages/device_group
+[33m3515503[m option 'preset-device-group-name'
+[33m97266d7[m Update config.rs
+[33m03628a8[m Update config.rs
+[33m22a5707[m Update config.rs
+[33m33d90c7[m Simplicity is a double-edged sword. It makes things easier for you and me, but it also makes things easier for bad people. So we decided to reduce the convenience.
+[33m79f8ac2[m Merge pull request #4 from fufesou/feat/file_clipboard_try_empty
+[33me646eb9[m feat: file clipboard, try empty message
+[33m49c6b24[m init
